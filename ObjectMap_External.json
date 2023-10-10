@@ -1,0 +1,14 @@
+{
+    "EMAIL":{
+        "locator_name":"id",
+        "locator_value":"Email"
+    },
+    "PASSWORD":{
+        "locator_name":"id",
+        "locator_value":"Password"
+    },
+    "LOGIN_BTN":{
+        "locator_name":"xpath",
+        "locator_value":"//button[@type='submit']"
+    }
+}

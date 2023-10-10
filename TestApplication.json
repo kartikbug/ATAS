@@ -1,0 +1,24 @@
+{
+    "testifact_info":{
+        "testsuite_name":"TestApplication",
+        "testsuite_owner":"TestUser",
+        "test_report_result":"C:\\Users\\Kartik Rawat\\Desktop\\ATAS\\Report",
+        "object_map_external":"C:\\Users\\Kartik Rawat\\Desktop\\ATAS\\ObjectMap_External.json",
+        "variable_map_external":"C:\\Users\\Kartik Rawat\\Desktop\\ATAS\\VariableMap_External.json"   
+        },
+    
+    "testifact_items":[
+        {
+            "test_name":"Login into application",
+            "description":"User loggs into the application successfully",
+            "execute":"yes",
+            "test_actions":[
+                {
+                    "action_name":"add_from_template",
+                    "template_name":"LoginTemplate",
+                    "template_path":"C:\\Users\\Kartik Rawat\\Desktop\\ATAS\\LoginTemplate.json"
+                }
+            ]
+        }
+    ]
+}
